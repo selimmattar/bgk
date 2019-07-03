@@ -199,7 +199,6 @@ class App extends Component {
           <div>
             <a
               href="#"
-              onClick={this.togglelocation}
               style={{
                 color: 'black',
                 fontWeight: 'bold',
@@ -221,7 +220,6 @@ class App extends Component {
           <div>
             <a
               href="#"
-              onClick={this.togglelocation}
               style={{
                 color: 'black',
                 fontWeight: 'bold',
@@ -243,7 +241,6 @@ class App extends Component {
           <div>
             <a
               href="#"
-              onClick={this.togglelocation}
               style={{
                 color: 'black',
                 fontWeight: 'bold',
